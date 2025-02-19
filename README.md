@@ -34,7 +34,7 @@ Before running the project, ensure you have the following installed:
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clean-architecture-webapi.git
+   git clone https://github.com/wassimDridi/How-to-Build-a-Clean-Architecture-Web-API-with-.NET-Core-8.git
    cd clean-architecture-webapi
 
 
